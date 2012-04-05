@@ -1,0 +1,32 @@
++ OS: Windows, Mac and/or Linux?
++ Setup Beta List
++ Setup Kagi
+Icon
++ Design UI
+
++ Idea: "lightweight lazy-man's backup solution".
++ UI Library
+
+Specify Compost Directory
+Specify Source Directoriess
+
+Store old directories
+
+Scan for duplicate files SHA2-512, by size, then by sha
+Remove file attributes
+Remove empty directories
+
+Exclusions
+Identify new/modified files
+
+Create and manage old version
+
+old.compost.2008-12-15.x
+
+Dump largest compost content, allow addition to exclusions
+
+David Salzman <salzman@polychip.com> asked for:
+> The time stamps of the folders themselves need to be modified, not just a
+> description within some application. Could you please make FolderScope do
+> that?
+
